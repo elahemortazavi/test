@@ -8,6 +8,7 @@ function moreThanSixGoals(num1, num2) {
     return num1 + num2 > 6;
 }
 console.log(moreThanSixGoals(2, 5));
+console.log(moreThanSixGoals(2, 5));
 
 
 function myMood(now) {
